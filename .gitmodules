@@ -1,0 +1,6 @@
+[submodule "auto_gippity"]
+	path = auto_gippity
+	url = git@github.com:zainen/auto-gpt-project.git
+[submodule "web_template"]
+	path = web_template
+	url = git@github.com:zainen/web-template.git
