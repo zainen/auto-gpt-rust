@@ -15,3 +15,11 @@ Obtain the keys needed as shown in the `.env Copy` file.
 `OPEN_AI_ORG=`
 
 `OPEN_AI_KEY=`
+
+## Subdirectories
+
+### web_template 
+
+`code_tempalte.rs` holds the example of a rust API used by chatGPT-4
+
+`main.rs` will hold the generated rust API given by chatGPT-4 based on the given prompt.
